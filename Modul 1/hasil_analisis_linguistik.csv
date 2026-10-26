@@ -1,0 +1,110 @@
+﻿No,Kalimat,Token,POS,POS Tag,Lemma,Dependency,Head
+1,Saya suka produk ini!,Saya,PRON,PS1,saya,nsubj,suka
+1,Saya suka produk ini!,suka,VERB,NSD,suka,root,suka
+1,Saya suka produk ini!,produk,NOUN,NSD,produk,obj,suka
+1,Saya suka produk ini!,ini,DET,B--,ini,det,produk
+1,Saya suka produk ini!,!,PUNCT,Z--,!,punct,suka
+2,PELAYANANNYA BAGUS BANGET!!!,PELAYANANNYA,PROPN,X--,pelayanannya,root,PELAYANANNYA
+2,PELAYANANNYA BAGUS BANGET!!!,BAGUS,PROPN,ASP,bagus,flat:name,PELAYANANNYA
+2,PELAYANANNYA BAGUS BANGET!!!,BANGET,PROPN,X--,banget,flat:name,BAGUS
+2,PELAYANANNYA BAGUS BANGET!!!,!,PUNCT,Z--,!,punct,PELAYANANNYA
+2,PELAYANANNYA BAGUS BANGET!!!,!,PUNCT,Z--,!,punct,PELAYANANNYA
+2,PELAYANANNYA BAGUS BANGET!!!,!,PUNCT,Z--,!,punct,PELAYANANNYA
+3,Produk ini tidak bagus.,Produk,NOUN,NSD,produk,nsubj,bagus
+3,Produk ini tidak bagus.,ini,DET,B--,ini,det,Produk
+3,Produk ini tidak bagus.,tidak,PART,G--,tidak,advmod,bagus
+3,Produk ini tidak bagus.,bagus,ADJ,ASP,bagus,root,bagus
+3,Produk ini tidak bagus.,.,PUNCT,Z--,.,punct,bagus
+4,Harga murah dan berkualitas.,Harga,NOUN,NSD,harga,root,Harga
+4,Harga murah dan berkualitas.,murah,ADJ,ASP,murah,amod,Harga
+4,Harga murah dan berkualitas.,dan,CCONJ,H--,dan,cc,berkualitas
+4,Harga murah dan berkualitas.,berkualitas,VERB,VSA,kualitas,conj,murah
+4,Harga murah dan berkualitas.,.,PUNCT,Z--,.,punct,Harga
+5,Saya membeli baju di toko online.,Saya,PRON,PS1,saya,nsubj,membeli
+5,Saya membeli baju di toko online.,membeli,VERB,VSA,beli,root,membeli
+5,Saya membeli baju di toko online.,baju,NOUN,NSD,baju,obj,membeli
+5,Saya membeli baju di toko online.,di,ADP,R--,di,case,toko
+5,Saya membeli baju di toko online.,toko,NOUN,NSD,toko,nmod,baju
+5,Saya membeli baju di toko online.,online,ADJ,F--,online,amod,toko
+5,Saya membeli baju di toko online.,.,PUNCT,Z--,.,punct,membeli
+6,Barangnya cepat sampai ke rumah.,Barangnya,NOUN,X--,barangnya,nsubj,sampai
+6,Barangnya cepat sampai ke rumah.,cepat,ADJ,ASP,cepat,amod,sampai
+6,Barangnya cepat sampai ke rumah.,sampai,VERB,R--,sampai,root,sampai
+6,Barangnya cepat sampai ke rumah.,ke,ADP,R--,ke,case,rumah
+6,Barangnya cepat sampai ke rumah.,rumah,NOUN,NSD,rumah,obl,sampai
+6,Barangnya cepat sampai ke rumah.,.,PUNCT,Z--,.,punct,sampai
+7,Pelayanan sangat memuaskan.,Pelayanan,NOUN,NSD,layan,nsubj,memuaskan
+7,Pelayanan sangat memuaskan.,sangat,ADV,D--,sangat,advmod,memuaskan
+7,Pelayanan sangat memuaskan.,memuaskan,VERB,VSA,puas,root,memuaskan
+7,Pelayanan sangat memuaskan.,.,PUNCT,Z--,.,punct,memuaskan
+8,Aku suka banget sama produknya.,Aku,PRON,VSA,aku,nsubj,suka
+8,Aku suka banget sama produknya.,suka,VERB,NSD,suka,root,suka
+8,Aku suka banget sama produknya.,banget,VERB,X--,banget,xcomp,suka
+8,Aku suka banget sama produknya.,sama,X,ASP,sama,goeswith,banget
+8,Aku suka banget sama produknya.,produknya,NOUN,NSD,produknya,obj,banget
+8,Aku suka banget sama produknya.,.,PUNCT,Z--,.,punct,suka
+9,Pengiriman terlambat 3 hari!,Pengiriman,NOUN,NSD,kirim,nsubj:pass,terlambat
+9,Pengiriman terlambat 3 hari!,terlambat,VERB,VSP,terlambat,root,terlambat
+9,Pengiriman terlambat 3 hari!,3,NUM,CC-,3,nummod,hari
+9,Pengiriman terlambat 3 hari!,hari,NOUN,NSD,hari,obj,terlambat
+9,Pengiriman terlambat 3 hari!,!,PUNCT,Z--,!,punct,terlambat
+10,Barang tidak sesuai gambar.,Barang,NOUN,NSD,barang,root,Barang
+10,Barang tidak sesuai gambar.,tidak,PART,G--,tidak,advmod,Barang
+10,Barang tidak sesuai gambar.,sesuai,ADP,ASP,sesuai,case,gambar
+10,Barang tidak sesuai gambar.,gambar,NOUN,NSD,gambar,nmod,Barang
+10,Barang tidak sesuai gambar.,.,PUNCT,Z--,.,punct,Barang
+11,Saya kecewa dengan kualitasnya.,Saya,PRON,PS1,saya,nsubj,kecewa
+11,Saya kecewa dengan kualitasnya.,kecewa,VERB,ASP,kecewa,root,kecewa
+11,Saya kecewa dengan kualitasnya.,dengan,ADP,R--,dengan,case,kualitas
+11,Saya kecewa dengan kualitasnya.,kualitas,NOUN,NSD,kualitas,obl,kecewa
+11,Saya kecewa dengan kualitasnya.,nya,PRON,PS3,dia,nmod:poss,kualitas
+11,Saya kecewa dengan kualitasnya.,.,PUNCT,Z--,.,punct,kecewa
+12,Adminnya ramah dan responsif.,Adminnya,PROPN,X--,adminnya,nsubj,ramah
+12,Adminnya ramah dan responsif.,ramah,ADJ,ASP,ramah,root,ramah
+12,Adminnya ramah dan responsif.,dan,CCONJ,H--,dan,cc,responsif
+12,Adminnya ramah dan responsif.,responsif,ADJ,ASP,responsif,conj,ramah
+12,Adminnya ramah dan responsif.,.,PUNCT,Z--,.,punct,ramah
+13,Terima kasih atas bantuannya.,Terima,VERB,VSA,terima,root,Terima
+13,Terima kasih atas bantuannya.,kasih,NOUN,NSD,kasih,obj,Terima
+13,Terima kasih atas bantuannya.,atas,ADP,ASP,atas,case,bantuan
+13,Terima kasih atas bantuannya.,bantuan,NOUN,NSD,bantu,obl,Terima
+13,Terima kasih atas bantuannya.,nya,PRON,PS3,dia,nmod:poss,bantuan
+13,Terima kasih atas bantuannya.,.,PUNCT,Z--,.,punct,Terima
+14,Saya akan membeli lagi besok.,Saya,PRON,PS1,saya,nsubj,membeli
+14,Saya akan membeli lagi besok.,akan,AUX,M--,akan,aux,membeli
+14,Saya akan membeli lagi besok.,membeli,VERB,VSA,beli,root,membeli
+14,Saya akan membeli lagi besok.,lagi,ADV,D--,lagi,advmod,membeli
+14,Saya akan membeli lagi besok.,besok,NOUN,NSD,besok,obj,membeli
+14,Saya akan membeli lagi besok.,.,PUNCT,Z--,.,punct,membeli
+15,Produknya keren sekali 😍,Produk,NOUN,NSD,produk,root,Produk
+15,Produknya keren sekali 😍,nya,PRON,PS3,dia,nmod:poss,Produk
+15,Produknya keren sekali 😍,keren,ADJ,ASP,keren,amod,Produk
+15,Produknya keren sekali 😍,sekali,ADV,D--,sekali,fixed,keren
+15,Produknya keren sekali 😍,😍,PUNCT,Z--,😍,punct,Produk
+16,Cek https://toko.com sekarang!,Cek,VERB,VSA,cek,root,Cek
+16,Cek https://toko.com sekarang!,https://toko.com,PROPN,X--,https://toko.com,obj,Cek
+16,Cek https://toko.com sekarang!,sekarang,ADV,D--,sekarang,advmod,Cek
+16,Cek https://toko.com sekarang!,!,PUNCT,Z--,!,punct,Cek
+17,@admin tolong proses pesanan saya.,@admin,PROPN,X--,@admin,nsubj,tolong
+17,@admin tolong proses pesanan saya.,tolong,VERB,VSA,tolong,root,tolong
+17,@admin tolong proses pesanan saya.,proses,NOUN,NSD,proses,obj,tolong
+17,@admin tolong proses pesanan saya.,pesanan,NOUN,NSD,pesanan,compound,proses
+17,@admin tolong proses pesanan saya.,saya,PRON,PS1,saya,nmod:poss,pesanan
+17,@admin tolong proses pesanan saya.,.,PUNCT,Z--,.,punct,tolong
+18,#Promo diskon 50% hari ini!,#Promo,PROPN,X--,#promo,root,#Promo
+18,#Promo diskon 50% hari ini!,diskon,ADJ,X--,diskon,amod,#Promo
+18,#Promo diskon 50% hari ini!,50,NUM,CC-,50,nummod,%
+18,#Promo diskon 50% hari ini!,%,SYM,Z--,%,compound,#Promo
+18,#Promo diskon 50% hari ini!,hari,NOUN,NSD,hari,compound,#Promo
+18,#Promo diskon 50% hari ini!,ini,DET,B--,ini,det,hari
+18,#Promo diskon 50% hari ini!,!,PUNCT,Z--,!,punct,#Promo
+19,Pengalaman belanja sangat menyenangkan.,Pengalaman,NOUN,NSD,pengalaman,nsubj,menyenangkan
+19,Pengalaman belanja sangat menyenangkan.,belanja,NOUN,NSD,belanja,compound,Pengalaman
+19,Pengalaman belanja sangat menyenangkan.,sangat,ADV,D--,sangat,advmod,menyenangkan
+19,Pengalaman belanja sangat menyenangkan.,menyenangkan,VERB,VSA,senang,root,menyenangkan
+19,Pengalaman belanja sangat menyenangkan.,.,PUNCT,Z--,.,punct,menyenangkan
+20,Pelanggan mendapatkan pelayanan terbaik.,Pelanggan,NOUN,NSD,langgan,nsubj,mendapatkan
+20,Pelanggan mendapatkan pelayanan terbaik.,mendapatkan,VERB,VSA,dapat,root,mendapatkan
+20,Pelanggan mendapatkan pelayanan terbaik.,pelayanan,NOUN,NSD,layan,obj,mendapatkan
+20,Pelanggan mendapatkan pelayanan terbaik.,terbaik,ADJ,ASS,baik,amod,pelayanan
+20,Pelanggan mendapatkan pelayanan terbaik.,.,PUNCT,Z--,.,punct,mendapatkan
